@@ -2,7 +2,7 @@
 
 ### 2020 注定是不平凡的一年，数字资产行业同样，要说行业内有什么比今年夏日阳光更火热，一定是 DeFi、PolkaDot生态了 —— 以 Uniswap、Curve 为代表的 DeFi 产品将  liquidity mining 带入公众视野，红薯、土豆、玉米、寿司等食物也被赋予了新含义，成了圈内最潮流的谈资，此外高速发展的web3时代，也迎来了异构多链的区块链生态网络--Polkadot，搅动一江春水，让这个夏天有故事。
 
-##### 面对行业快如此快节奏的发展，AOCOIN 围绕 DeFi、Polkadot 在产品有条不紊的跟进，DeFi产品上，AOCOIN 已上线TRON、ETH 流动性挖矿专区，在这里，你可以快速参与 SushiSwap、Uniswap等热门项目，对于波卡生态，我们快速支持了Polkadot,Kusama,Kulupu,ChainX 钱包以及Staking、Vote 等生态支持，同时，波卡也是我们本次重要聊的话题。
+##### 面对行业如此快节奏的发展，AOCOIN 围绕 DeFi、Polkadot 在产品有条不紊的跟进，DeFi产品上，AOCOIN 已上线TRON、ETH 流动性挖矿专区，在这里，你可以快速参与 SushiSwap、Uniswap等热门项目，对于波卡生态，我们快速支持了Polkadot,Kusama,Kulupu,ChainX 钱包以及Staking、Vote 等生态支持，同时，波卡也是我们本次重要聊的话题。
 
 ### 什么是波卡?
 当前，已经启动了许多区块链项目，包括Bitcoin区块链和以太坊区块链，但是仍然存在许多挑战，例如可伸缩性，治理，互操作性，可开发性和实用性。在这种情况下，区块链行业主要参与者创立的Web3基金会开始开发“ Polkadot”项目，该项目将不同的区块链连接起来，以解决现有区块链的问题。
